@@ -1,10 +1,10 @@
-# Name of Machine
-Explanation of the Machine
+# Machina Observatrix
+Machine that watches... all the time.
 <pre>
-  pip install name-of-the-machine
+  pip install machina-observatrix
 </pre>
 Then:
 ```Python
   # Python
-  import name_of_the_machine
+  import machina_observatrix
 ```
